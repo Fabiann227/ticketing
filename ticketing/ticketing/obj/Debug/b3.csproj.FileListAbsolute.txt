@@ -1,0 +1,12 @@
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\bin\Debug\b3.exe.config
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\bin\Debug\b3.exe
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\bin\Debug\b3.pdb
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\obj\Debug\b3.csprojResolveAssemblyReference.cache
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\obj\Debug\b3.Properties.Resources.resources
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\obj\Debug\b3.csproj.GenerateResource.Cache
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\obj\Debug\b3.exe
+c:\users\encry\documents\visual studio 2015\Projects\b3\b3\obj\Debug\b3.pdb
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\obj\Debug\b3.FrmLogin.resources
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\obj\Debug\b3.FrmMainMenu.resources
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\obj\Debug\b3.FrmEntriPenumpang.resources
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\obj\Debug\b3.FrmPesanTiket.resources

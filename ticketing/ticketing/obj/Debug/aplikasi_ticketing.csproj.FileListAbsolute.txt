@@ -1,0 +1,3 @@
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\bin\Debug\b3.exe.config
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\obj\Debug\b3.exe
+C:\Users\encry\Documents\Visual Studio 2015\Projects\b3\b3\obj\Debug\b3.pdb
